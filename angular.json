@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "site-jaspe"
+    }
+  },
+  "defaultProject": "site-jaspe",
+  "cli": {
+    "analytics": "46c48496-32c9-4117-8021-cae0fc4cea2d"
+  }
 }

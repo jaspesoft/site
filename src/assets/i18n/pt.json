@@ -1,0 +1,21 @@
+{
+  "menu": {
+    "home": "Home",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "home": {
+    "presentation": {
+      "message1": "Desenvolvendo idéas",
+      "message2": "Criando soluções",
+      "message3": "¿Web - Mobile?",
+      "message4": "Nunca pare de aprender acreditando que o melhor fica na frente, independentemente dos obstáculos porque o sucesso é garantido.",
+      "button": "Saiba mais sobre mim"
+    },
+    "aboutme": {
+      "title_part1": "Sobre",
+      "title_part2": "Mim",
+      "message":"Sou desenvolvedor de software que adora tecnologia. Meu principal objetivo é fornecer soluções tecnológicas que, com eles, os clientes obtenham melhor gerenciamento e um impacto econômico positivo."
+    }
+  }
+}

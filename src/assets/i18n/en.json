@@ -1,0 +1,21 @@
+{
+  "menu": {
+    "home": "Home",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "presentation": {
+      "message1": "Developing ideas",
+      "message2": "Creating solutions",
+      "message3": "¿Web - Mobile?",
+      "message4": "Never stop learning by believing that the best is ahead, regardless of obstacles because success is guaranteed.",
+      "button": "Learn more about me\n"
+    },
+    "aboutme": {
+      "title_part1": "About",
+      "title_part2": "Me",
+      "message": "\nI'm a software developer who loves technology. My main objective is to provide technological solutions that, with them, customers obtain better management and a positive economic impact."
+    }
+  }
+}
