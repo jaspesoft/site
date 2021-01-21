@@ -1,0 +1,16 @@
+#toolbar {
+  background: transparent;
+  box-shadow: 1px -3px 8px #731a1d;
+}
+.menu li{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#menu {
+  /*background: rgb(115,26,29);
+  background: linear-gradient(180deg, rgba(115,26,29,1) 47%, rgba(143,0,14,1) 100%);*/
+  background: transparent;
+  z-index: 999;
+}
