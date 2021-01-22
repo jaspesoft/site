@@ -4,20 +4,23 @@
   <section id="menu" class="row center-md w-100">
     <div class="col-md-6">
       <ul class="menu">
-        <li>
-          <button mat-button class="font-bold f-red-wine">Empresa</button>
+        <li routerLink="/" routerLinkActive="active">
+          <button mat-button class="font-regular text-uppercase f-red-wine letter-menu">Home</button>
         </li>
-        <li>
-          <button mat-button class="font-bold f-red-wine">Servicios</button>
+        <li routerLink="/company" routerLinkActive="active">
+          <button mat-button class="font-regular text-uppercase f-red-wine letter-menu">Empresa</button>
         </li>
-        <li>
-          <button mat-button class="font-bold f-red-wine">Portafolio</button>
+        <li routerLink="/services" routerLinkActive="active">
+          <button mat-button class="font-regular text-uppercase f-red-wine letter-menu">Servicios</button>
         </li>
-        <li>
-          <button mat-button class="font-bold f-red-wine">Productos</button>
+        <li routerLink="/services" routerLinkActive="active">
+          <button mat-button class="font-regular text-uppercase f-red-wine letter-menu">Portafolio</button>
         </li>
-        <li>
-          <button mat-button class="font-bold f-white">Contacto</button>
+        <li routerLink="/products" routerLinkActive="active">
+          <button mat-button class="font-regular text-uppercase f-red-wine letter-menu">Productos</button>
+        </li>
+        <li routerLink="/contact" routerLinkActive="active">
+          <button mat-button class="font-regular text-uppercase f-white">Contacto</button>
         </li>
       </ul>
     </div>
