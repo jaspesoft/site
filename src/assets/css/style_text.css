@@ -14,12 +14,17 @@
 
 @font-face{
   font-family: "TitleBold";
-  src: url("../fonts/Montserrat-Bold.otf");
+  src: url("../fonts/Metropolis-Bold.otf");
 }
 
 @font-face{
   font-family: "TitleLight";
-  src: url("../fonts/Montserrat-Light.otf");
+  src: url("../fonts/Metropolis-ExtraLight.otf");
+}
+
+@font-face{
+  font-family: "TitleRegular";
+  src: url("../fonts/Metropolis-Regular.otf");
 }
 
 .title-bold {
@@ -29,6 +34,10 @@
 .title-light {
   font-weight: lighter;
   font-family: TitleLight !important;
+}
+
+.title-regular {
+  font-family: TitleRegular !important;
 }
 
 .font-regular {
