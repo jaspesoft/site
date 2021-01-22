@@ -61,3 +61,11 @@ h3 {
 .position-absolute {
   position: absolute !important;
 }
+
+.position-fixed {
+  position: fixed !important;
+}
+
+.header {
+  z-index: 999;
+}

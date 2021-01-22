@@ -1,15 +1,15 @@
 @font-face{
   font-family: "Regular";
-  src: url("../fonts/NexaRegular.otf");
+  src: url("../fonts/Roboto-regular.ttf");
 }
 
 @font-face{
   font-family: "Light";
-  src: url("../fonts/NexaLight.otf");
+  src: url("../fonts/Roboto-Light.ttf");
 }
 @font-face{
   font-family: "Bold";
-  src: url("../fonts/NexaBold.otf");
+  src: url("../fonts/Roboto-Bold.ttf");
 }
 
 @font-face{
@@ -35,6 +35,7 @@
   font-family: "Regular" !important;
 }
 .font-light {
+  font-weight: lighter;
   font-family: "Light" !important;
 }
 .font-bold {
