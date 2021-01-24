@@ -7,10 +7,12 @@ import { HeaderComponent } from './components/header/header.component';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { PresentationComponent } from './components/presentation/presentation.component';
+import { OurProjectsComponent } from './components/our-projects/our-projects.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 
 @NgModule({
-  declarations: [HomeComponent, HeaderComponent, PresentationComponent],
+  declarations: [HomeComponent, HeaderComponent, PresentationComponent, OurProjectsComponent, FooterComponent],
   imports: [
     CommonModule,
     LandingRoutingModule,
